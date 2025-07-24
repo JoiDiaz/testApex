@@ -1,0 +1,12 @@
+C:\ws_apex\order-worker\src\main\java\com\orderworker\model\Product.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\service\LockService.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\service\OrderProcessor.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\model\EnrichedOrder.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\model\ProductResponse.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\repository\OrderRepository.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\ApiClient.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\model\Customer.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\model\OrderMessage.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\OrderWorkerApplication.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\consumer\OrderConsumer.java
+C:\ws_apex\order-worker\src\main\java\com\orderworker\config\WebClientConfig.java
